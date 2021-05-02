@@ -1,7 +1,7 @@
 include README.md
 include LICENSE
 include requirements.txt
-graft scrapter
+graft regex-dict
 recursive-exclude * *.py[co]
 include versioneer.py
-include scraper/_version.py
+include regex-dict/_version.py
