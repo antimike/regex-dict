@@ -1,0 +1,3 @@
+-r core.txt 
+-r testing.txt
+-c constraints.txt
