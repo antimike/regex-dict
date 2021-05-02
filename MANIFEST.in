@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include requirements.txt
+graft scrapter
+recursive-exclude * *.py[co]
+include versioneer.py
+include scraper/_version.py
