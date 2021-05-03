@@ -1,5 +1,6 @@
 import re
 
+
 class RegexDict(dict):
     """RegexDict.
     Extension of Python dict which supports regex filtering.
